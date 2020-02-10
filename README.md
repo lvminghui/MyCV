@@ -61,15 +61,13 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- Java 基础扎实，熟练掌握集合类，反射，代理，多线程，锁等
-
+* Java 基础扎实，熟练掌握集合类，反射，代理，多线程，锁等
 * 熟练掌握 JVM，理解 GC 策略和内存调优
-
 * 熟练掌握  SSM 框架原理及 SpringBoot 使用，以及与框架相关设计模式
 * 熟练掌握 MySQL 以及复杂 SQL 编写和数据库优化方案以及 SQL 优化
 * 熟练掌握 Redis，使用 Redis 分布式缓存和生产环境常见问题解决方案
-* 熟练 Tomcat 和 Nginx 应用服务器的配置和部署；
-* 熟悉 Linux 系统，掌握常用指令；
+* 熟练 Tomcat 和 Nginx 应用服务器的配置和部署
+* 熟悉 Linux 系统，掌握常用指令
 * 了解微服务架构，会使用 SpringCloud 
-* 了解 JavaScript，前端主流框架 Vue 等框架；
-* 良好的英文文档阅读能力；
+* 了解 JavaScript，前端主流框架 Vue 等框架
+* 良好的英文文档阅读能力
