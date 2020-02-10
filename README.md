@@ -1,93 +1,75 @@
-# 联系方式
+ <center>
+     <h1>吕明辉</h1>
+     <div>
+         <span>
+             <img src="assets/phone-solid.svg" width="18px">
+             13923874243
+         </span>
+         ·
+         <span>
+             <img src="assets/envelope-solid.svg" width="18px">
+             naerdeshiyi@gmail.com
+         </span>
+         ·
+         <span>
+             <img src="assets/github-brands.svg" width="18px">
+             <a href="https://github.com/lvminghui">lvminghui</a>
+         </span>
+     </div>
+ </center>
 
-#### 手机：1392387xxxx
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
-#### Email：naerdeshiyi@gmail.com
-
-#### 微信号：naerjiajia207
-
----
-
-# 个人信息
-
- - 吕明辉/男/1996
- - 天津科技大学（一本）/工业工程专业
- - 工作年限：1年
- - Github：https://github.com/lvminghui 
-
- - 期望职位：Java软件开发工程师
+ - 男，1996 年出生
+ - 求职意向：Java 开发工程师
+ - 工作经验：1 年
  - 期望薪资：面议
- - 期望城市：广州
 
-# 开源项目
+## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
- - [naer](https://github.com/lvminghui/naer--SpringBoot-learning)：后台权限管理系统
+- 学士，天津科技大学，工业工程专业，2015.9~2019.7
+- 通过了 CET4 英语等级考试
 
-# 个人技能
+## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-熟练掌握 Java 基础语法以及常用API和OOP编程思想，熟悉多线程程序开发，具有良好的编码习惯；
+- **北京乐学在线教育公司，Java 工程师，2019.3~2020.1**
 
-熟练掌握 Spring、MyBatis、SpringMVC 阅读过相关源码并有过整合开发项目的经验；
+  **工作描述**：
 
-熟练掌握 MySQL 以及复杂 SQL 编写和数据库优化方案以及 SQL 优化，在工作中有相关 SQL 优化经验；  
+  1.参与项目的开发和维护 
 
-熟练掌握 Redis，使用Redis分布式缓存和生产环境常见问题解决方案；
+  2.根据业务需求调整数据模型，设计程序接口，实现接口业务逻辑，编写接口文档。 
 
-熟练 SpringBoot，在工作中使用 SpringBoot 快速构建项目；
+  3.负责项目的开发、调试、bug修改、上线跟踪
 
-熟练使用 SpringCloud 微服务治理架构，参与过 SpringCloud 微服务相关项目开发；
+  4.参与新知识的学习
 
-熟悉 Linux 系统，掌握常用指令；
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-熟练 Tomcat 和 Nginx 应用服务器的配置部署；
+- **乐学在线教育**
 
-熟练使用Git进行代码管理；
+  **技术架构：**
 
-熟悉 JavaScript、JQuery、Ajax交互和 JSON;
+  后端主要技术架构: SpringBoot + SpringCloud + MyBatis-Plus + MySQL + POI + Redis + Nginx
+  前端架构: Node.js + Vue.js + element-ui + NUXT+ ECharts + npm + babel 
 
-熟悉前端主流框架 Vue 等框架；
+  我负责讲师管理模块，课程模块，使用了 Redis 缓存数据解决了课程首页加载慢的问题，参与了项目需求讨论，编写了相关设计、接口文档。
 
-良好的英文文档阅读能力；
+- **开源项目**
 
-# 工作经历
+  [naer](https://github.com/lvminghui/naer--SpringBoot-learning)：可作为项目脚手架的后台权限管理系统。
 
-## 北京乐学在线教育公司 （ 2019年3月 ~ 2020年1月 ）
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-**职位名称**：Java初级开发工程师 
+- Java 基础扎实，熟练掌握集合类，反射，代理，多线程，锁等
 
-**工作描述**：
+* 熟练掌握 JVM，理解 GC 策略和内存调优
 
-1.在职期间参与了项目的开发和维护 
-
-2.根据业务需求调整数据模型，设计程序接口，实现接口业务逻辑，编写接口文档。 
-
-3.负责项目的开发、调试、bug修改、上线跟踪
-
-4.参与新知识的学习
-
-## 项目描述
-
-乐学是一款主打儿童和学生教育的在线教育项目。
-
-**技术架构：**
-
-后端主要技术架构: SpringBoot + SpringCloud + MyBatis-Plus + HttpClient+MySQL + Maven+POI + nginx
-前端架构: Node.js + Vue.js + element-ui+ NUXT+ ECharts +npm+babel 
-
-**相关解决方案：**
-
-采用 SpringBoot+SpringCloud 构建,持久层采用 MyBatis-Plus,Redis做缓存服务,业务中使用 POI 完成分类批量添加，使用了 ECharts 做图表展示，使用 Swagger 生成接口文档接入了阿里云视频点播、阿里云OSS。
-
-**责任描述：**
-
-我参与了讲师管理模块，课程模块，微信扫描登陆的开发，参与项目需求讨论，编写相关设计、接口文档。
-
-**结果：**
-
-项目稳定运行，版本持续更新，统一后端编码规范 
-
----
-
-# 致谢
-
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+* 熟练掌握  SSM 框架原理及 SpringBoot 使用，以及与框架相关设计模式
+* 熟练掌握 MySQL 以及复杂 SQL 编写和数据库优化方案以及 SQL 优化
+* 熟练掌握 Redis，使用 Redis 分布式缓存和生产环境常见问题解决方案
+* 熟练 Tomcat 和 Nginx 应用服务器的配置和部署；
+* 熟悉 Linux 系统，掌握常用指令；
+* 了解微服务架构，会使用 SpringCloud 
+* 了解 JavaScript，前端主流框架 Vue 等框架；
+* 良好的英文文档阅读能力；
