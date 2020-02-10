@@ -57,7 +57,7 @@
 
 - **开源项目**
 
-  [naer](https://github.com/lvminghui/naer--SpringBoot-learning)：可作为项目脚手架的后台权限管理系统。
+  [naer](https://github.com/lvminghui/naer--SpringBoot-learning)：本身是为了作为练手 SpringBoot 的项目，现开源，可作为项目脚手架的后台权限管理系统。
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
