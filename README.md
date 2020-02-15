@@ -1,4 +1,3 @@
-
  <center>
      <h1>吕明辉</h1>
      <div>
@@ -33,17 +32,21 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **天津xx网络科技公司，Java 工程师，2019.3~2020.1**
+- **天津蓝琛网络科技公司，Java 工程师，2019.3~2020.1**
 
-  1.参与酒吧社交系统的开发和维护 ，负责编码完成 banner 模块和 用户搜索 模块。
+  **个人职责：**
 
-  2.根据业务需求不停迭代，对代码进行重构。
+  1.参与酒吧社交系统的开发和维护 ，负责编码完成 banner 模块，用户搜索模块和登陆模块。
 
-  3.和同事共同参与数据库表的设计，减少了数据冗余，规范了表的命名。
+  2.根据任务按时完成编码工作和单元测试工作，保证了产品的质量。
+
+  3.按照开发流程编写相应的模块设计文档。
+
+  4.参与了项目需求讨论，编写了相关设计、接口文档。
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **xxx酒吧社交项目**
+- **xxx酒吧社交项目**，**2019.3~2020.1**
 
   **项目描述：**
 
@@ -51,26 +54,34 @@
 
   **技术架构：**
 
-  后端主要技术架构: SpringBoot + MyBatis + MySQL + Redis + SpringSecurity + Swagger UI 
+  项目采用前后端分离开发，后端主要技术架构: SpringBoot + MyBatis + MySQL + Redis + SpringSecurity + Swagger UI 
 
   **职责描述：**
 
-  进入公司后继续开发项目，负责了 banner 模块，好友搜索模块，使用了 Redis 缓存数据解决了首页加载慢的问题，优化查询搜索记录的sql 语句，加快了查询速度，参与了项目需求讨论，编写了相关设计、接口文档。
+  负责了 banner 模块，好友搜索模块和登陆模块，使用了 Redis 缓存数据解决了首页加载慢的问题，优化查询搜索记录的sql 语句，加快了查询速度。
 
-- **开源项目**
+- **纳尔后台权限项目**
 
-  [naer](https://github.com/lvminghui/naer--SpringBoot-learning)： 项目采用 SpringBoot+ Thymeleaf 开发，可作为项目脚手架的后台权限管理系统。
+  **项目描述：**
+
+  基于 Spring Boot 的后台权限管理系统，适合于学习 Spring Boot 开发、项目毕业设计以及研发团队快速搭建项目，提供纯净的权限管理功能，可作为开发项目的脚手架，作为基础项目。 
+
+  **技术架构：**SpringBoot + SpringSecurity + MyBatis +  Logback   + MySQL + Redis  + Thymeleaf + Layui  
+
+  **内置功能：**
+
+  用户管理，角色管理，菜单管理，登录、登出，修改密码。 
+
+  
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - Java 基础扎实，熟练掌握集合类，反射，代理，多线程，锁等
 
-* 熟练掌握 JVM，理解 GC 策略和内存调优
-
+* 熟悉 JVM，理解 GC 策略和内存调优
 * 熟练掌握  SSM 框架原理及 SpringBoot 使用，以及与框架相关设计模式
 * 熟练掌握 MySQL 以及复杂 SQL 编写和数据库优化方案以及 SQL 优化
-* 熟练掌握 Redis，使用 Redis 分布式缓存和生产环境常见问题解决方案
-* 熟练 Tomcat 和 Nginx 应用服务器的配置和部署；
-* 熟悉 Linux 系统，掌握常用指令；
+* 熟练掌握 WEB 服务技术，如 Servlet，Tomcat 等
+* 了解分布式架构，会使用 Nginx，Redis 等
+* 了解 Linux 系统，掌握常用指令
 * 了解微服务架构，会使用 SpringCloud 
-* 了解 JavaScript，前端主流框架 Vue 等框架；
