@@ -66,7 +66,9 @@
 
   基于 Spring Boot 的后台权限管理系统，适合于学习 Spring Boot 开发、项目毕业设计以及研发团队快速搭建项目，提供纯净的权限管理功能，可作为开发项目的脚手架，作为基础项目。 
 
-  **技术架构：**SpringBoot + SpringSecurity + MyBatis +  Logback   + MySQL + Redis  + Thymeleaf + Layui  
+  **技术架构：**
+
+  SpringBoot + SpringSecurity + MyBatis +  Logback   + MySQL + Redis  + Thymeleaf + Layui  
 
   **内置功能：**
 
