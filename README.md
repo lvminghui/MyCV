@@ -44,7 +44,7 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **Ube酒吧社交项目**，**2019.3~2020.1**
+- **xxx酒吧社交项目**，**2019.3~2020.1**
 
   **项目描述：**
 
