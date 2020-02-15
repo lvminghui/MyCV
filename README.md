@@ -1,9 +1,9 @@
  <center>
-     <h1>吕明辉</h1>
+     <h1>xxx</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             13923874243
+             13923874xxx
          </span>
          ·
          <span>
@@ -32,7 +32,7 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **天津蓝琛网络科技公司，Java 工程师，2019.3~2020.1**
+- **天津xx网络科技公司，Java 工程师，2019.3~2020.1**
 
   **个人职责：**
 
