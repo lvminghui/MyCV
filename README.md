@@ -38,11 +38,9 @@
 
   1.参与酒吧社交系统的开发和维护 ，负责编码完成 banner 模块，用户搜索模块和登陆模块。
 
-  2.根据任务按时完成编码工作和单元测试工作，保证了产品的质量。
+  2.根据任务按时完成编码工作和单元测试工作，保证产品的质量。
 
-  3.按照开发流程编写相应的模块设计文档。
-
-  4.参与了项目需求讨论，编写了相关设计、接口文档。
+  3.参与了项目需求讨论，编写了相关设计、接口文档。
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -54,7 +52,7 @@
 
   **技术架构：**
 
-  项目采用前后端分离开发，后端主要技术架构: SpringBoot + MyBatis + MySQL + Redis + SpringSecurity + Swagger UI 
+  采用前后端分离开发，后端技术架构: SpringBoot + MyBatis + MySQL + Redis + SpringSecurity + Swagger
 
   **职责描述：**
 
@@ -74,8 +72,6 @@
 
   用户管理，角色管理，菜单管理，登录、登出，修改密码。 
 
-  
-
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - Java 基础扎实，熟练掌握集合类，反射，代理，多线程，锁等
@@ -86,4 +82,3 @@
 * 熟练掌握 WEB 服务技术，如 Servlet，Tomcat 等
 * 了解分布式架构，会使用 Nginx，Redis 等
 * 了解 Linux 系统，掌握常用指令
-* 了解微服务架构，会使用 SpringCloud 
