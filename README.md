@@ -1,48 +1,3 @@
- <center>
-     <h1>xxx</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             13923874xxx
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             naerdeshiyi@gmail.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/lvminghui">lvminghui</a>
-         </span>
-     </div>
- </center>
-
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
-
- - 男，1996 年出生
- - 求职意向：Java 开发工程师
- - 工作经验：1 年
- - 期望薪资：面议
-
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
-
-- 学士，天津科技大学，工业工程专业，2015.9~2019.7
-- 通过了 CET4 英语等级考试
-
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
-
-- **天津xx网络科技公司，Java 工程师，2019.3~2020.1**
-
-  **个人职责：**
-
-  1.参与酒吧社交系统的开发和维护 ，负责编码完成 banner 模块，用户搜索模块和登陆模块。
-
-  2.根据任务按时完成编码工作和单元测试工作，保证产品的质量。
-
-  3.参与了项目需求讨论，编写了相关设计、接口文档。
-
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **xxx酒吧社交项目**，**2019.3~2020.1**
 
@@ -72,13 +27,4 @@
 
   用户管理，角色管理，菜单管理，登录、登出，修改密码。 
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- Java 基础扎实，熟练掌握集合类，反射，代理，多线程，锁等
-
-* 熟悉 JVM，理解 GC 策略和内存调优
-* 熟练掌握  SSM 框架原理及 SpringBoot 使用，以及与框架相关设计模式
-* 熟练掌握 MySQL 以及复杂 SQL 编写和数据库优化方案以及 SQL 优化
-* 熟练掌握 WEB 服务技术，如 Servlet，Tomcat 等
-* 了解分布式架构，会使用 Nginx，Redis 等
-* 了解 Linux 系统，掌握常用指令
